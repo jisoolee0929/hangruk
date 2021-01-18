@@ -1,0 +1,356 @@
+
+#logo {
+    display: inline;
+    position: absolute;
+    z-index: 1;
+    top: 54px;
+    left: 386px;
+    width: 101px;
+    height: 40px;
+    text-align: left;
+    font: normal normal bold 35px/38px Gmarket Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+#made {
+    display: inline;
+    position: absolute;
+    z-index: 2;
+    top: 63px;
+    left: 555px;
+    width: 1000px;
+    height: 23px;
+    text-align: left;
+    font: Gmarket Sans;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+
+}
+
+#hayoung {
+    display: inline;
+    position: absolute;
+    top: 63px;
+    left: 876px;
+    width: 60px;
+    height: 23px;
+    text-align: left;
+    font:Gmarket Sans;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+#jangho {
+    display: inline;
+    position: absolute;
+    top: 63px;
+    left: 1095px;
+    width: 60px;
+    height: 23px;
+    text-align: left;
+    font: Gmarket Sans;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+#jisoo {
+    display: inline;
+    position: absolute;
+    top: 63px;
+    left: 1314px;
+    width: 60px;
+    height: 23px;
+    text-align: left;
+    font:Gmarket Sans;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+#vena {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    width: 1920px;
+    height: 724px;
+    opacity: 1;
+}
+
+#rice {
+    display: inline;
+    position: absolute;
+    top: 404px;
+    left: 1223px;
+    width: 397px;
+    height: 58px;
+    text-align: left;
+    font: normal normal bold 50px/58px Gmarket Sans;
+    letter-spacing: 0px;
+    color: #FCF5F5;
+    opacity: 1;
+    z-index: 2;
+}
+
+#rice2 {
+    display: inline;
+    position: absolute;
+    top: 504px;
+    left: 1232px;
+    width: 405px;
+    height: 99px;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #FCF5F5;
+    opacity: 1;
+    line-height: 38px;
+    font:Gmarket Sans;
+}
+
+.btn {
+    position: absolute;
+    width: 82px;
+    height: 82px;
+    border-radius: 50%;
+    top: 437px;
+    left: 1809px;
+    border: #ECE9E9 solid 12px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.5);
+} 
+
+
+.intro {
+    position: absolute;
+    top: 977px;
+    left: 685px;
+    box-shadow: 0px 16px 16px #00000099;
+    border-radius: 50px;
+    opacity: 1;
+    width: 550px;
+    height: 863px;
+    background-color: #ECE9E9;
+}
+
+#sle {
+    top: 977px;
+    left: 685px;
+    width: 550px;
+    height: 635px;
+    background: url('../img/윤슬수정2.png') 50% 50% no-repeat padding-box;
+    border-radius: 50px 50px 0px 0px;
+    opacity: 1;
+}
+
+.intro h1 {
+    line-height: 28px;
+    position: absolute;
+    top: 673px;
+    left: 37px;
+    width: 306px;
+    height: 54px;
+    text-align: left;
+    font: normal normal bold 22px/28px Gmarket Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.intro p {
+    line-height: 23px;
+    position: absolute;
+    top: 755px;
+    left: 37px;
+    width: 318px;
+    height: 46px;
+    text-align: left;
+    font: Gmarket Sans;
+    font-size: 20px;
+    letter-spacing: 0.06px;
+    color: #000000;
+    opacity: 1;
+}
+
+.intro2 {
+    position: absolute;
+    top: 1939px;
+    left: 1200px;
+    width: 400px;
+    height: 603px;
+    background-color: #ECE9E9;
+    box-shadow: 0px 16px 16px #00000099;
+    border-radius: 30px;
+    opacity: 1;
+}
+
+.intro3 {
+    position: absolute;
+    top: 1939px;
+    left: 320px;
+    width: 400px;
+    height: 603px;
+    background: #ECE9E9 0% 0% no-repeat padding-box;
+    box-shadow: 0px 16px 16px #00000099;
+    border-radius: 30px;
+    opacity: 1;
+
+}
+
+.intro4 {
+    position: absolute;
+    top: 1939px;
+    left: 760px;
+    width: 400px;
+    height: 603px;
+    background: #ECE9E9 0% 0% no-repeat padding-box;
+    box-shadow: 0px 16px 16px #00000099;
+    border-radius: 30px;
+    opacity: 1;
+
+}
+
+#sle2 {
+    position: absolute;
+    bottom: 203px;
+    left: 0px;
+    width: 400px;
+    height: 400px;
+    background:url('../img/상담사수정2.png') 50% 50% no-repeat padding-box;
+    border-radius: 30px 30px 0px 0px;
+    opacity: 1;
+}
+
+#sle3 {
+    position: absolute;
+    bottom: 203px;
+    left: 0px;
+    width: 400px;
+    height: 400px;
+    background:url('../img/엄마수정2.png') 50% 50% no-repeat padding-box;
+    border-radius: 30px 30px 0px 0px;
+    opacity: 1;
+}
+
+#sle4 {
+    position: absolute;
+    bottom: 203px;
+    left: 0px;
+    width: 400px;
+    height: 400px;
+    background:url('../img/은지수정2.png') 50% 50% no-repeat padding-box;
+    border-radius: 30px 30px 0px 0px;
+    opacity: 1;
+
+}
+
+
+
+
+.intro2 h1 {
+    position: absolute;
+    top:448px;
+    left: 29px;
+    width: 271px;
+    height: 48px;
+    text-align: left;
+    font: normal normal bold 20px/25px Gmarket Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.intro2 p {
+    position: absolute;
+    top:523px;
+    left: 29px;
+    width: 245px;
+    height: 17px;
+    text-align: left;
+    font: Gmarket Sans;
+    font-size: 15px;
+    font-style: normal;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    line-height: 20px;
+}
+
+.intro3 h1 {
+    position: absolute;
+    top:448px;
+    left: 29px;
+    width: 271px;
+    height: 48px;
+    text-align: left;
+    font: normal normal bold 20px/25px Gmarket Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    line-height: 25px;
+}
+
+.intro3 p {
+    position: absolute;
+    top:523px;
+    left: 29px;
+    width: 245px;
+    height: 17px;
+    text-align: left;
+    font: Gmarket Sans;
+    font-size: 15px;
+    font-style: normal;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    line-height: 20px;
+}
+
+.intro4 h1 {
+    position: absolute;
+    top:448px;
+    left: 29px;
+    width: 271px;
+    height: 48px;
+    text-align: left;
+    font: normal normal bold 20px/25px Gmarket Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    line-height: 25px;
+}
+
+.intro4 p {
+
+    position: absolute;
+    top:523px;
+    left: 29px;
+    width: 245px;
+    height: 17px;
+    text-align: left;
+    font: Gmarket Sans;
+    font-size: 15px;
+    font-style: normal;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    line-height: 20px;
+
+}
+
+#back2 {
+    position: absolute;
+    top: 891px;
+    left: 8px;
+    width: 1920px;
+    height: 2000px;
+    opacity: 0.5;
+
+}
